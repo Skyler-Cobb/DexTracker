@@ -1,0 +1,1339 @@
+{
+    "Venusaur": [
+        "gender/male.png",
+        "gender/female.png",
+        "mega/megastone.png",
+        "gmax.png"
+    ],
+    "Charizard": [
+        "default.png",
+        "mega/megastone-x.png",
+        "mega/megastone-y.png",
+        "gmax.png"
+    ],
+    "Blastoise": [
+        "default.png",
+        "mega/megastone.png",
+        "gmax.png"
+    ],
+    "Butterfree": [
+        "gender/male.png",
+        "gender/female.png",
+        "gmax.png"
+    ],
+    "Beedrill": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Pidgeot": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Rattata": [
+        "gender/male.png",
+        "gender/female.png",
+        "regional/alolan.png"
+    ],
+    "Raticate": [
+        "gender/male.png",
+        "gender/female.png",
+        "regional/alolan.png",
+        "totem.png"
+    ],
+    "Pikachu": [
+        "gender/male.png",
+        "gender/female.png",
+        "pikachu/cosplay-rock-star.png",
+        "pikachu/cosplay-belle.png",
+        "pikachu/cosplay-pop-star.png",
+        "pikachu/cosplay-phd.png",
+        "pikachu/cosplay-libre.png",
+        "pikachu/cosplay.png",
+        "pikachu/cap-original.png",
+        "pikachu/cap-hoenn.png",
+        "pikachu/cap-sinnoh.png",
+        "pikachu/cap-unova.png",
+        "pikachu/cap-kalos.png",
+        "pikachu/cap-alola.png",
+        "pikachu/cap-partner.png",
+        "pikachu/cap-world.png",
+        "partner.png",
+        "gmax.png"
+    ],
+    "Raichu": [
+        "gender/male.png",
+        "gender/female.png",
+        "regional/alolan.png"
+    ],
+    "Sandshrew": [
+        "default.png",
+        "regional/alolan.png"
+    ],
+    "Sandslash": [
+        "default.png",
+        "regional/alolan.png"
+    ],
+    "Vulpix": [
+        "default.png",
+        "regional/alolan.png"
+    ],
+    "Ninetales": [
+        "default.png",
+        "regional/alolan.png"
+    ],
+    "Diglett": [
+        "default.png",
+        "regional/alolan.png"
+    ],
+    "Dugtrio": [
+        "default.png",
+        "regional/alolan.png"
+    ],
+    "Meowth": [
+        "default.png",
+        "regional/alolan.png",
+        "regional/galarian.png",
+        "gmax.png"
+    ],
+    "Persian": [
+        "default.png",
+        "regional/alolan.png"
+    ],
+    "Growlithe": [
+        "default.png",
+        "regional/hisuian.png"
+    ],
+    "Arcanine": [
+        "default.png",
+        "regional/hisuian.png"
+    ],
+    "Alakazam": [
+        "gender/male.png",
+        "gender/female.png",
+        "mega/megastone.png"
+    ],
+    "Machamp": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Geodude": [
+        "default.png",
+        "regional/alolan.png"
+    ],
+    "Graveler": [
+        "default.png",
+        "regional/alolan.png"
+    ],
+    "Golem": [
+        "default.png",
+        "regional/alolan.png"
+    ],
+    "Ponyta": [
+        "default.png",
+        "regional/galarian.png"
+    ],
+    "Rapidash": [
+        "default.png",
+        "regional/galarian.png"
+    ],
+    "Slowpoke": [
+        "default.png",
+        "regional/galarian.png"
+    ],
+    "Slowbro": [
+        "default.png",
+        "mega/megastone.png",
+        "regional/galarian.png"
+    ],
+    "Farfetchd": [
+        "default.png",
+        "regional/galarian.png"
+    ],
+    "Grimer": [
+        "default.png",
+        "regional/alolan.png"
+    ],
+    "Muk": [
+        "default.png",
+        "regional/alolan.png"
+    ],
+    "Gengar": [
+        "default.png",
+        "mega/megastone.png",
+        "gmax.png"
+    ],
+    "Kingler": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Voltorb": [
+        "default.png",
+        "regional/hisuian.png"
+    ],
+    "Electrode": [
+        "default.png",
+        "regional/hisuian.png"
+    ],
+    "Exeggutor": [
+        "default.png",
+        "regional/alolan.png"
+    ],
+    "Marowak": [
+        "default.png",
+        "regional/alolan.png",
+        "totem.png"
+    ],
+    "Weezing": [
+        "default.png",
+        "regional/galarian.png"
+    ],
+    "Kangaskhan": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Mr. Mime": [
+        "default.png",
+        "regional/galarian.png"
+    ],
+    "Mr": [
+        "default.png",
+        "regional/galarian.png"
+    ],
+    "Pinsir": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Tauros": [
+        "default.png",
+        "regional/paldean.png",
+        "regional/paldean-scarlet.png",
+        "regional/paldean-violet.png"
+    ],
+    "Gyarados": [
+        "gender/male.png",
+        "gender/female.png",
+        "mega/megastone.png"
+    ],
+    "Lapras": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Eevee": [
+        "gender/male.png",
+        "gender/female.png",
+        "partner.png",
+        "gmax.png"
+    ],
+    "Aerodactyl": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Snorlax": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Articuno": [
+        "default.png",
+        "regional/galarian.png"
+    ],
+    "Zapdos": [
+        "default.png",
+        "regional/galarian.png"
+    ],
+    "Moltres": [
+        "default.png",
+        "regional/galarian.png"
+    ],
+    "Mewtwo": [
+        "default.png",
+        "mega/megastone-x.png",
+        "mega/megastone-y.png"
+    ],
+    "Typhlosion": [
+        "default.png",
+        "regional/hisuian.png"
+    ],
+    "Ampharos": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Wooper": [
+        "gender/male.png",
+        "gender/female.png",
+        "regional/paldean.png"
+    ],
+    "Slowking": [
+        "default.png",
+        "regional/galarian.png"
+    ],
+    "Unown": [
+        "unown/a.png",
+        "unown/b.png",
+        "unown/c.png",
+        "unown/d.png",
+        "unown/e.png",
+        "unown/f.png",
+        "unown/g.png",
+        "unown/h.png",
+        "unown/i.png",
+        "unown/j.png",
+        "unown/k.png",
+        "unown/l.png",
+        "unown/m.png",
+        "unown/n.png",
+        "unown/o.png",
+        "unown/p.png",
+        "unown/q.png",
+        "unown/r.png",
+        "unown/s.png",
+        "unown/t.png",
+        "unown/u.png",
+        "unown/v.png",
+        "unown/w.png",
+        "unown/x.png",
+        "unown/y.png",
+        "unown/z.png",
+        "unown/exclamation.png",
+        "unown/question.png"
+    ],
+    "Steelix": [
+        "gender/male.png",
+        "gender/female.png",
+        "mega/megastone.png"
+    ],
+    "Qwilfish": [
+        "default.png",
+        "regional/hisuian.png"
+    ],
+    "Scizor": [
+        "gender/male.png",
+        "gender/female.png",
+        "mega/megastone.png"
+    ],
+    "Heracross": [
+        "gender/male.png",
+        "gender/female.png",
+        "mega/megastone.png"
+    ],
+    "Sneasel": [
+        "gender/male.png",
+        "gender/female.png",
+        "regional/hisuian-male.png",
+        "regional/hisuian-female.png"
+    ],
+    "Corsola": [
+        "default.png",
+        "regional/galarian.png"
+    ],
+    "Houndoom": [
+        "gender/male.png",
+        "gender/female.png",
+        "mega/megastone.png"
+    ],
+    "Tyranitar": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Sceptile": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Blaziken": [
+        "gender/male.png",
+        "gender/female.png",
+        "mega/megastone.png"
+    ],
+    "Swampert": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Zigzagoon": [
+        "default.png",
+        "regional/galarian.png"
+    ],
+    "Linoone": [
+        "default.png",
+        "regional/galarian.png"
+    ],
+    "Gardevoir": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Sableye": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Mawile": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Aggron": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Medicham": [
+        "gender/male.png",
+        "gender/female.png",
+        "mega/megastone.png"
+    ],
+    "Manectric": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Sharpedo": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Camerupt": [
+        "gender/male.png",
+        "gender/female.png",
+        "mega/megastone.png"
+    ],
+    "Altaria": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Castform": [
+        "default.png",
+        "castform/sunny.png",
+        "castform/rainy.png",
+        "castform/snowy.png"
+    ],
+    "Banette": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Absol": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Glalie": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Salamence": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Metagross": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Latias": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Latios": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Kyogre": [
+        "default.png",
+        "mega/blue orb.png"
+    ],
+    "Groudon": [
+        "default.png",
+        "mega/red orb.png"
+    ],
+    "Rayquaza": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Deoxys": [
+        "default.png",
+        "deoxys/xattack.png",
+        "deoxys/xdefense.png",
+        "deoxys/xspeed.png"
+    ],
+    "Burmy": [
+        "burmy/burmy-plant.png",
+        "burmy/burmy-sand.png",
+        "burmy/burmy-trash.png"
+    ],
+    "Wormadam": [
+        "burmy/wormadam-plant.png",
+        "burmy/wormadam-sand.png",
+        "burmy/wormadam-trash.png"
+    ],
+    "Cherrim": [
+        "cherrim/cherrim-overcast.png",
+        "cherrim/cherrim-sunshine.png"
+    ],
+    "Shellos": [
+        "shellos/shellos-east.png",
+        "shellos/shellos-west.png"
+    ],
+    "Gastrodon": [
+        "shellos/gastrodon-east.png",
+        "shellos/gastrodon-west.png"
+    ],
+    "Lopunny": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Garchomp": [
+        "gender/male.png",
+        "gender/female.png",
+        "mega/megastone.png"
+    ],
+    "Lucario": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Abomasnow": [
+        "gender/male.png",
+        "gender/female.png",
+        "mega/megastone.png"
+    ],
+    "Gallade": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Rotom": [
+        "rotom/normal.png",
+        "rotom/heat.png",
+        "rotom/wash.png",
+        "rotom/freeze.png",
+        "rotom/fan.png",
+        "rotom/mow.png"
+    ],
+    "Dialga": [
+        "default.png",
+        "adamant crystal.png"
+    ],
+    "Palkia": [
+        "default.png",
+        "lustrous globe.png"
+    ],
+    "Giratina": [
+        "default.png",
+        "griseous core.png"
+    ],
+    "Shaymin": [
+        "default.png",
+        "gracidea.png"
+    ],
+    "Arceus": [
+        "arceus/blank.png",
+        "arceus/fist.png",
+        "arceus/sky.png",
+        "arceus/toxic.png",
+        "arceus/earth.png",
+        "arceus/stone.png",
+        "arceus/insect.png",
+        "arceus/spooky.png",
+        "arceus/iron.png",
+        "arceus/flame.png",
+        "arceus/splash.png",
+        "arceus/meadow.png",
+        "arceus/zap.png",
+        "arceus/mind.png",
+        "arceus/icicle.png",
+        "arceus/draco.png",
+        "arceus/dread.png",
+        "arceus/pixie.png"
+    ],
+    "Samurott": [
+        "default.png",
+        "regional/hisuian.png"
+    ],
+    "Audino": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Lilligant": [
+        "default.png",
+        "regional/hisuian.png"
+    ],
+    "Basculin": [
+        "basculin/basculin-red.png",
+        "basculin/basculin-blue.png",
+        "basculin/basculin-white.png"
+    ],
+    "Darumaka": [
+        "default.png",
+        "regional/galarian.png"
+    ],
+    "Darmanitan": [
+        "default.png",
+        "zen.png",
+        "regional/galarian.png",
+        "zen.png"
+    ],
+    "Yamask": [
+        "default.png",
+        "regional/galarian.png"
+    ],
+    "Garbodor": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Zorua": [
+        "default.png",
+        "regional/hisuian.png"
+    ],
+    "Zoroark": [
+        "default.png",
+        "regional/hisuian.png"
+    ],
+    "Deerling": [
+        "deerling/season-spring.png",
+        "deerling/season-summer.png",
+        "deerling/season-fall.png",
+        "deerling/season-winter.png"
+    ],
+    "Sawsbuck": [
+        "deerling/season-spring.png",
+        "deerling/season-summer.png",
+        "deerling/season-fall.png",
+        "deerling/season-winter.png"
+    ],
+    "Stunfisk": [
+        "default.png",
+        "regional/galarian.png"
+    ],
+    "Braviary": [
+        "default.png",
+        "regional/hisuian.png"
+    ],
+    "Tornadus": [
+        "default.png",
+        "revealglass.png"
+    ],
+    "Thundurus": [
+        "default.png",
+        "revealglass.png"
+    ],
+    "Landorus": [
+        "default.png",
+        "revealglass.png"
+    ],
+    "Kyurem": [
+        "default.png",
+        "fusions/fusion-zekrom.png",
+        "fusions/fusion-reshiram.png"
+    ],
+    "Keldeo": [
+        "keldeo/normal.png",
+        "keldeo/resolute.png"
+    ],
+    "Meloetta": [
+        "meloetta/aria.png",
+        "meloetta/pirouette.png"
+    ],
+    "Greninja": [
+        "default.png",
+        "ash-greninja.png"
+    ],
+    "Vivillon": [
+        "vivillon/vivillon_meadow_pattern.png",
+        "vivillon/vivillon_polar_pattern.png",
+        "vivillon/vivillon_tundra_pattern.png",
+        "vivillon/vivillon_continental_pattern.png",
+        "vivillon/vivillon_garden_pattern.png",
+        "vivillon/vivillon_elegant_pattern.png",
+        "vivillon/vivillon_icy_snow_pattern.png",
+        "vivillon/vivillon_modern_pattern.png",
+        "vivillon/vivillon_marine_pattern.png",
+        "vivillon/vivillon_archipelago_pattern.png",
+        "vivillon/vivillon_high_plains_pattern.png",
+        "vivillon/vivillon_sandstorm_pattern.png",
+        "vivillon/vivillon_river_pattern.png",
+        "vivillon/vivillon_monsoon_pattern.png",
+        "vivillon/vivillon_savanna_pattern.png",
+        "vivillon/vivillon_sun_pattern.png",
+        "vivillon/vivillon_ocean_pattern.png",
+        "vivillon/vivillon_jungle_pattern.png",
+        "vivillon/vivillon_fancy_pattern.png",
+        "vivillon/vivillon_pokeball_pattern.png"
+    ],
+    "Flabebe": [
+        "flabebe/flower-red.png",
+        "flabebe/flower-yellow.png",
+        "flabebe/flower-orange.png",
+        "flabebe/flower-blue.png",
+        "flabebe/flower-white.png"
+    ],
+    "Floette": [
+        "flabebe/flower-red.png",
+        "flabebe/flower-yellow.png",
+        "flabebe/flower-orange.png",
+        "flabebe/flower-blue.png",
+        "flabebe/flower-white.png",
+        "flabebe/flower-eternal.png"
+    ],
+    "Florges": [
+        "flabebe/flower-red.png",
+        "flabebe/flower-yellow.png",
+        "flabebe/flower-orange.png",
+        "flabebe/flower-blue.png",
+        "flabebe/flower-white.png"
+    ],
+    "Furfrou": [
+        "furfrou/furfrou_natural_form.png",
+        "furfrou/furfrou_dandy_trim.png",
+        "furfrou/furfrou_debutante_trim.png",
+        "furfrou/furfrou_diamond_trim.png",
+        "furfrou/furfrou_heart_trim.png",
+        "furfrou/furfrou_kabuki_trim.png",
+        "furfrou/furfrou_la_reine_trim.png",
+        "furfrou/furfrou_matron_trim.png",
+        "furfrou/furfrou_pharaoh_trim.png",
+        "furfrou/furfrou_star_trim.png"
+    ],
+    "Meowstic": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Aegislash": [
+        "rustedshield.png",
+        "rustedsword.png"
+    ],
+    "Sliggoo": [
+        "default.png",
+        "regional/hisuian.png"
+    ],
+    "Goodra": [
+        "default.png",
+        "regional/hisuian.png"
+    ],
+    "Pumpkaboo": [
+        "pumpkaboo/medium.png",
+        "pumpkaboo/small.png",
+        "pumpkaboo/large.png",
+        "pumpkaboo/super.png"
+    ],
+    "Gourgeist": [
+        "pumpkaboo/medium.png",
+        "pumpkaboo/small.png",
+        "pumpkaboo/large.png",
+        "pumpkaboo/super.png"
+    ],
+    "Avalugg": [
+        "default.png",
+        "regional/hisuian.png"
+    ],
+    "Zygarde": [
+        "zygarde/50%.png",
+        "zygarde/10%.png",
+        "zygarde/50%.png",
+        "zygarde/100%.png",
+        "zygarde/10%.png"
+    ],
+    "Diancie": [
+        "default.png",
+        "mega/megastone.png"
+    ],
+    "Hoopa": [
+        "default.png",
+        "prisonbottle.png"
+    ],
+    "Decidueye": [
+        "default.png",
+        "regional/hisuian.png"
+    ],
+    "Gumshoos": [
+        "default.png",
+        "totem.png"
+    ],
+    "Ribombee": [
+        "default.png",
+        "totem.png"
+    ],
+    "Vikavolt": [
+        "default.png",
+        "totem.png"
+    ],
+    "Salazzle": [
+        "default.png",
+        "totem.png"
+    ],
+    "Silvally": [
+        "silvally/normal.png",
+        "silvally/fighting.png",
+        "silvally/flying.png",
+        "silvally/poison.png",
+        "silvally/ground.png",
+        "silvally/rock.png",
+        "silvally/bug.png",
+        "silvally/ghost.png",
+        "silvally/steel.png",
+        "silvally/fire.png",
+        "silvally/water.png",
+        "silvally/grass.png",
+        "silvally/electric.png",
+        "silvally/psychic.png",
+        "silvally/ice.png",
+        "silvally/dragon.png",
+        "silvally/dark.png",
+        "silvally/fairy.png"
+    ],
+    "Minior": [
+        "minior/meteor.png",
+        "minior/meteor.png",
+        "minior/meteor.png",
+        "minior/meteor.png",
+        "minior/meteor.png",
+        "minior/meteor.png",
+        "minior/meteor.png",
+        "minior/red.png",
+        "minior/orange.png",
+        "minior/yellow.png",
+        "minior/green.png",
+        "minior/blue.png",
+        "minior/indigo.png",
+        "minior/violet.png"
+    ],
+    "Togedemaru": [
+        "default.png",
+        "totem.png"
+    ],
+    "Mimikyu": [
+        "default.png",
+        "mimikyu-busted.png",
+        "totem.png"
+    ],
+    "Kommo-o": [
+        "default.png",
+        "totem.png"
+    ],
+    "Araquanid": [
+        "default.png",
+        "totem.png"
+    ],
+    "Necrozma": [
+        "default.png",
+        "fusions/fusion-solgaleo.png",
+        "fusions/fusion-lunala.png",
+        "ultranecrozium.png"
+    ],
+    "Magearna": [
+        "magearna/magearna-worn.png",
+        "magearna/magearna-original.png"
+    ],
+    "Oricorio": [
+        "oricorio/nectar-red.png",
+        "oricorio/nectar-yellow.png",
+        "oricorio/nectar-pink.png",
+        "oricorio/nectar-purple.png"
+    ],
+    "Melmetal": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Rillaboom": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Cinderace": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Inteleon": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Corviknight": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Orbeetle": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Drednaw": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Coalossal": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Flapple": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Appletun": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Sandaconda": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Cramorant": [
+        "default.png",
+        "cramorant/gulping.png",
+        "cramorant/gorging.png"
+    ],
+    "Toxtricity": [
+        "toxtricity/amped.png",
+        "toxtricity/low-key.png",
+        "gmax.png",
+        "gmax.png"
+    ],
+    "Centiskorch": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Hatterene": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Grimmsnarl": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Alcremie": [
+        "gmax.png"
+    ],
+    "Eiscue": [
+        "eiscue/ice-face.png",
+        "eiscue/noice-face.png"
+    ],
+    "Indeedee": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Morpeko": [
+        "morpeko/full-belly.png",
+        "morpeko/hangry.png"
+    ],
+    "Copperajah": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Duraludon": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Zacian": [
+        "default.png",
+        "rustedsword.png"
+    ],
+    "Zamazenta": [
+        "default.png",
+        "rustedshield.png"
+    ],
+    "Eternatus": [
+        "default.png",
+        "gmax.png"
+    ],
+    "Urshifu": [
+        "default.png",
+        "default.png",
+        "gmax.png",
+        "gmax.png"
+    ],
+    "Zarude": [
+        "default.png",
+        "zarude-dada.png"
+    ],
+    "Calyrex": [
+        "default.png",
+        "fusions/fusion-glastrier.png",
+        "fusions/fusion-spectrier.png"
+    ],
+    "Ursaluna": [
+        "default.png",
+        "bloodmoon.png"
+    ],
+    "Basculegion": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Enamorus": [
+        "default.png",
+        "revealglass.png"
+    ],
+    "Oinkologne": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Maushold": [
+        "maushold/maushold-4.png",
+        "maushold/maushold-3.png"
+    ],
+    "Squawkabilly": [
+        "squawkabilly/green.png",
+        "squawkabilly/blue.png",
+        "squawkabilly/yellow.png",
+        "squawkabilly/white.png"
+    ],
+    "Palafin": [
+        "palafin/zero.png",
+        "palafin/hero.png"
+    ],
+    "Tatsugiri": [
+        "tatsugiri/curly.png",
+        "tatsugiri/droopy.png",
+        "tatsugiri/stretchy.png"
+    ],
+    "Dudunsparce": [
+        "dudunsparce/dudunsparce-2.png",
+        "dudunsparce/dudunsparce-3.png"
+    ],
+    "Gimmighoul": [
+        "gimmighoul/chest.png",
+        "gimmighoul/roaming.png"
+    ],
+    "Ogerpon": [
+        "ogerpon/mask-teal.png",
+        "ogerpon/mask-wellspring.png",
+        "ogerpon/mask-hearthflame.png",
+        "ogerpon/mask-cornerstone.png"
+    ],
+    "Terapagos": [
+        "default.png",
+        "terapagos/terastal.png",
+        "terapagos/stellar.png"
+    ],
+    "Wishiwashi": [
+        "default.png",
+        "wishiwashi-school.png"
+    ],
+    "Lurantis": [
+        "default.png",
+        "totem.png"
+    ],
+    "Sinistea": [
+        "default.png",
+        "authentic.png"
+    ],
+    "Polteageist": [
+        "default.png",
+        "authentic.png"
+    ],
+    "Poltchageist": [
+        "default.png",
+        "authentic.png"
+    ],
+    "Sinistcha": [
+        "default.png",
+        "authentic.png"
+    ],
+    "Zubat": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Golbat": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Gloom": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Vileplume": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Kadabra": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Doduo": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Dodrio": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Hypno": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Rhyhorn": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Rhydon": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Goldeen": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Seaking": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Scyther": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Magikarp": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Meganium": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Ledyba": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Ledian": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Xatu": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Sudowoodo": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Politoed": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Aipom": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Quagsire": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Murkrow": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Wobbuffet": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Girafarig": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Gligar": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Ursaring": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Piloswine": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Octillery": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Donphan": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Combusken": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Beautifly": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Dustox": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Ludicolo": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Nuzleaf": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Shiftry": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Meditite": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Roselia": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Gulpin": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Swalot": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Numel": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Cacturne": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Milotic": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Relicanth": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Starly": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Staravia": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Staraptor": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Bidoof": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Bibarel": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Kricketot": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Kricketune": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Shinx": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Luxio": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Luxray": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Roserade": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Combee": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Pachirisu": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Buizel": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Floatzel": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Ambipom": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Gible": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Gabite": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Hippopotas": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Hippowdon": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Croagunk": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Toxicroak": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Finneon": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Lumineon": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Snover": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Weavile": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Rhyperior": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Tangrowth": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Mamoswine": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Unfezant": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Frillish": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Jellicent": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Pyroar": [
+        "gender/male.png",
+        "gender/female.png"
+    ],
+    "Genesect": [
+        "default.png",
+        "genesect/shockdrive.png",
+        "genesect/burndrive.png",
+        "genesect/chilldrive.png",
+        "genesect/dousedrive.png"
+    ],
+    "Lycanroc": [
+        "lycanroc/midday.png",
+        "lycanroc/midnight.png",
+        "lycanroc/dusk.png"
+    ],
+    "Rockruff": [
+        "default.png",
+        "owntempo.png"
+    ]
+}

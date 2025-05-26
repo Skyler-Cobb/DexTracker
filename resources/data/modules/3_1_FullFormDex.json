@@ -1,0 +1,120 @@
+{
+    "name": "Full FormDex",
+    "enabled": true,
+    "default_shiny": false,
+    "filter_constraints": "",
+    "regions": {
+      "Kanto": true,
+      "Johto": true,
+      "Hoenn": true,
+      "Sinnoh": true,
+      "Unova": true,
+      "Kalos": true,
+      "Alola": true,
+      "Unknown": true,
+      "Galar": true,
+      "Hisui": true,
+      "Paldea": true
+    },
+    "home_compatible_variants": {
+      "by_form_name": {
+        "alolan": true,
+        "galarian": true,
+        "hisuian": true,
+        "paldean": true,
+        "totem": true,
+        "therian": true,
+        "gmax": true
+      },
+      "by_species_name": {
+        "unown": true,
+        "+burmy": true,
+        "+shellos": true,
+        "basculin": true,
+        "vivillon": true,
+        "+pumpkaboo": true,
+        "lycanroc": true,
+        "toxtricity": true,
+        "urshifu": true,
+        "squawkabilly": true,
+        "maushold": true,
+        "dudunsparce": true,
+        "deoxys": true,
+        "rotom": true,
+        "+deerling": true,
+        "keldeo": true,
+        "+floette": true,
+        "furfrou": true,
+        "oricorio": true,
+        "rockruff": true,
+        "magearna": true,
+        "zarude": true,
+        "ursaluna": true,
+        "tatsugiri": true,
+        "gimmighoul": true,
+        "+sinistea": true,
+        "+sinistcha": true
+      },
+      "special_handling": {
+        "gender_cosmetic": true,
+        "gender_forms": true,
+        "alcremie_sweets": true,
+        "alcremie_full": true,
+        "zygarde": true,
+        "zygarde_power_construct": true,
+        "minior_core": true,
+        "pikachu_hat": true
+      }
+    },
+    "home_incompatible_variants": {
+      "battle_forms": {
+        "by_species_name": {
+          "castform": true,
+          "cherrim": true,
+          "meloetta": true,
+          "greninja": true,
+          "aegislash": true,
+          "wishiwashi": true,
+          "morpeko": true,
+          "palafin": true,
+          "cramorant": true,
+          "eiscue": true,
+          "terapagos": true
+        },
+        "by_form_name": {
+          "mega": true,
+          "primal": true,
+          "eternamax": true,
+          "complete": true,
+          "ultra": true,
+          "zen": true
+        }
+      },
+      "item_forms": {
+        "by_species_name": {
+          "shaymin": true,
+          "arceus": true,
+          "silvally": true,
+          "hoopa": true,
+          "ogerpon": true,
+          "genesect": true
+        },
+        "by_form_name": {
+          "forme": true,
+          "crowned": true,
+          "busted": true
+        }
+      },
+      "special_handling": {
+        "fusion": true,
+        "pikachu_cosplay": true,
+        "lgpe_partner": true,
+        "minior_meteor": true,
+        "floette_eternal": true
+      }
+    },
+    "hide_impossible_pokemon": false,
+    "hide_locked_shinies": false,
+    "hide_go_exclusives": false,
+    "decorations": {}
+  }

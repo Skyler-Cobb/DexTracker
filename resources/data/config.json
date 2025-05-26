@@ -1,0 +1,17 @@
+{
+  "poke_grid_scale": 0.91,
+  "UI_opacity": 0.5,
+  "box_shift": 50,
+  "silhouette_colors": {
+    "gray": "#242424cc",
+    "red": "#800000cc",
+    "orange": "#802d00cc",
+    "yellow": "#9f8e00cc",
+    "green": "#007b0ecc",
+    "blue": "#0047abcc",
+    "purple": "#6400abcc"
+  },
+  "completion_gold" : "#9f8e00",
+  "filtered_out" : "#89b6869b",
+  "locked" : "#ad0000ff"
+}
